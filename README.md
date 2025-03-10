@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Alex-Thomas-Emage
 - 👀 Machine Learning Engineer
 - 🌱 AI ML
-- 💞️ 
